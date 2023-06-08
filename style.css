@@ -1,0 +1,239 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Box1 {
+    height: 50px;
+    width: 100%;
+    background-color: #717171;
+    margin: 20px 0px;
+}
+
+.Box2 {
+    height: 30px;
+    width: 50%;
+    background-color: #717171;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Box3 {
+    margin-bottom: 30px;
+}
+
+.Box4 {
+    float: left;
+    height: 200px;
+    width: 48%;
+    background-color: #717171;
+}
+
+.Box5 {
+    height: 200px;
+    width: 48%;
+    float: right;
+    background-color: #717171;
+}
+
+.Box7 {
+    height: 150px;
+    width: 23%;
+    float: left;
+    margin: 20px 20px;
+    background-color: #717171;
+}
+
+.Box8 {
+    height: 150px;
+    width: 23%;
+    float: left;
+    margin: 20px 10px;
+    background-color: #717171;
+}
+
+.Box9 {
+    height: 150px;
+    width: 23%;
+    float: left;
+    margin: 20px 10px;
+    background-color: #717171;
+}
+
+.Box10 {
+    height: 150px;
+    width: 23%;
+    margin: 20px 10px;
+    float: left;
+    background-color: #717171;
+}
+
+.Box11 {
+    height: 150px;
+    width: 23%;
+    margin: 20px 20px;
+    float: left;
+    background-color: #717171;
+}
+
+.Box12 {
+    height: 150px;
+    width: 23%;
+    margin: 20px 10px;
+    float: left;
+    background-color: #717171;
+
+}
+
+.Box13 {
+    height: 150px;
+    width: 23%;
+    margin: 20px 10px;
+    float: left;
+    background-color: #717171;
+}
+
+.Box14 {
+    height: 150px;
+    width: 23%;
+    margin: 20px 10px;
+    float: left;
+    background-color: #717171;
+
+}
+
+.Box15 {
+    height: 30px;
+    width: 60%;
+    background-color: #717171;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Box16 {
+    height: 420px;
+    width: 100%;
+    background-color: #717171;
+    margin-bottom: 30px;
+}
+
+.Box17 {
+    height: 320px;
+    width: 26%;
+    float: left;
+    background-color: #717171;
+    background-color: #f7f7f7;
+    margin: 50px;
+}
+
+.Box18 {
+    height: 30px;
+    width: 70%;
+    background-color: #717171;
+    margin: 20px 50px;
+}
+
+.Box19 {
+    height: 100px;
+    width: 70%;
+    background-color: #717171;
+    margin: 20px 50px;
+}
+
+.Box20 {
+    height: 100px;
+    width: 70%;
+    background-color: #717171;
+    margin: 20px 50px;
+}
+
+.Box21 {
+    height: 50px;
+    width: 30%;
+    background-color: #717171;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Box22 {
+    height: 40px;
+    width: 45%;
+    background-color: #717171;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Box23 {
+    height: 200px;
+    width: 45%;
+    background-color: #717171;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.Box24 {
+    width: 45%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.Box25 {
+    float: left;
+    height: 80px;
+    width: 48%;
+    background-color: #717171;
+}
+
+.Box26 {
+    float: right;
+    height: 80px;
+    width: 48%;
+    background-color: #717171;
+}
+
+.Box27 {
+    height: 300px;
+    width: 100%;
+    background-color: #717171;
+    margin-bottom: 50px;
+}
+
+.Box28 {
+    float: left;
+    height: 250px;
+    width: 47%;
+    background-color: #717171;
+    background-color: #f7f7f7;
+    margin: 20px 0px 20px 20px;
+}
+
+.Box29 {
+    float: right;
+    height: 250px;
+    width: 47%;
+    background-color: #717171;
+    background-color: #f7f7f7;
+    margin: 20px 20px 20px 0px;
+}
+
+.Box30 {
+    height: 320px;
+    width: 26%;
+    float: left;
+    background-color: white;
+    margin: 50px;
+}
+
+.Box31 {
+    height: 320px;
+    width: 26%;
+    float: left;
+    background-color: #717171;
+    background-color: #f7f7f7;
+    margin: 50px;
+}
+
+.clear {
+    overflow: auto;
+}
