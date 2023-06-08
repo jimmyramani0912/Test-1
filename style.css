@@ -8,7 +8,7 @@
     height: 50px;
     width: 100%;
     background-color: #717171;
-    margin: 20px 0px;
+    margin: 0 0 20px 0;
 }
 
 .Box2 {
@@ -196,7 +196,7 @@
     height: 300px;
     width: 100%;
     background-color: #717171;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 }
 
 .Box28 {
