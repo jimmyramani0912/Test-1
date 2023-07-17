@@ -8,8 +8,8 @@ Check out the live site: [Layout](https://test-1-me.netlify.app/)
 
 To view the website locally or make changes, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/jimmyramani0912/Test-2.git`
-2. Navigate to the project directory: `cd my-awesome-website`
+1. Clone the repository: `git clone https://github.com/jimmyramani0912/Test-1.git`
+2. Navigate to the project directory: `cd Test-1`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Contributing
